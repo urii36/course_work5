@@ -9,7 +9,7 @@
 
 Клонируйте репозитории с приложением:
 
-   git clone https://github.com/AndreyAgeew/skypro-course_work_5.git
+   https://github.com/urii36/course_work5
    cd skypro-course_work_5
 Установить необходимое в зависимости:
    pip install -r requirements.txt
