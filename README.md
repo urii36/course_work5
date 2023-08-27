@@ -13,7 +13,7 @@ PostgreSQL.
 3. Клонируйте репозиторий с приложением:
 
 ```shell
-   git clone https://https://github.com/urii36/course_work5
+   git clone https://github.com/urii36/course_work5
    cd skypro-course_work_5
 ```
 
